@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Орел или решка</string>
+    <string name="yazi_tura_at">Подбросьте монету</string>
+    <string name="yazi">Орел победил..!</string>
+    <string name="tura">Решка победила..!</string>
+    <string name="sec">Выбрать</string>
+    <string name="hemen_oyna">Начать</string>
+    <string name="cikis">Выход</string>
+    <string name="uygulamadan_cik_emin">Вы уверены, что хотите выйти из приложения?</string>
+    <string name="hayir">Нет</string>
+    <string name="evet">Да</string>
+    <string name="bekleyin">Пожалуйста, подождите...</string>
+    <string name="ayarlar">Настройки</string>
+    <string name="para_secme_basarili">Деньги успешно выбраны.</string>
+    <string name="titresim_error">Возникла ошибка в флажке вибрации.</string>
+    <string name="hata">Произошла ошибка..!</string>
+    <string name="para_tikla">Щелкните по деньгам, чтобы подтвердить выбор.</string>
+    <string name="titresim">Вибрация</string>
+</resources>

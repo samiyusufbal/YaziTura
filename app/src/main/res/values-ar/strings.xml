@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عملة</string>
+    <string name="yazi_tura_at">ألقِ عملة</string>
+    <string name="yazi">فازت العملة الأمامية..!</string>
+    <string name="tura">فازت العملة الخلفية..!</string>
+    <string name="sec">اختر</string>
+    <string name="hemen_oyna">ابدأ</string>
+    <string name="cikis">خروج</string>
+    <string name="uygulamadan_cik_emin">هل أنت متأكد من رغبتك في الخروج من التطبيق؟</string>
+    <string name="hayir">لا</string>
+    <string name="evet">نعم</string>
+    <string name="bekleyin">يرجى الانتظار...</string>
+    <string name="ayarlar">إعدادات</string>
+    <string name="para_secme_basarili">تم اختيار المال بنجاح.</string>
+    <string name="titresim_error">حدث خطأ في خانة الاهتزاز.</string>
+    <string name="hata">حدث خطأ..!</string>
+    <string name="para_tikla">انقر على النقود لتأكيد التحديد.</string>
+    <string name="titresim">اهتزاز</string>
+</resources>

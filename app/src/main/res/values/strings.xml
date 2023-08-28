@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yazı Tura</string>
+    <string name="yazi_tura_at">Yazı/Tura at</string>
+    <string name="yazi">Yazı kazandı..!</string>
+    <string name="tura">Tura kazandı..!</string>
+    <string name="sec">Seç</string>
+    <string name="hemen_oyna">Başla</string>
+    <string name="cikis">Çıkış</string>
+    <string name="uygulamadan_cik_emin">Uygulamadan çıkmak istediğinize emin misiniz?</string>
+    <string name="hayir">Hayır</string>
+    <string name="evet">Evet</string>
+    <string name="bekleyin">Lütfen bekleyiniz...</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="para_secme_basarili">Para başarıyla seçildi.</string>
+    <string name="titresim_error">Titreşim CheckBox\'ında bir hata oluştu.</string>
+    <string name="hata">Bir hata oluştu..!</string>
+    <string name="para_tikla">Seçimi onaylamak için paraya tıklayın.</string>
+    <string name="titresim">Titreşim</string>
+</resources>

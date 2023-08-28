@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">表裏</string>
+    <string name="yazi_tura_at">コイントス</string>
+    <string name="yazi">表が勝ちました..！</string>
+    <string name="tura">裏が勝ちました..！</string>
+    <string name="sec">選択</string>
+    <string name="hemen_oyna">開始</string>
+    <string name="cikis">終了</string>
+    <string name="uygulamadan_cik_emin">アプリケーションを終了してもよろしいですか？</string>
+    <string name="hayir">いいえ</string>
+    <string name="evet">はい</string>
+    <string name="bekleyin">お待ちください...</string>
+    <string name="ayarlar">設定</string>
+    <string name="para_secme_basarili">お金が正常に選択されました。</string>
+    <string name="titresim_error">バイブレーションのチェックボックスでエラーが発生しました。</string>
+    <string name="hata">エラーが発生しました..!</string>
+    <string name="para_tikla">選択を確認するにはお金をクリックしてください。</string>
+    <string name="titresim">バイブレーション</string>
+</resources>

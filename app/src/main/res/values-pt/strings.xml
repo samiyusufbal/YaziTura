@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara ou coroa</string>
+    <string name="yazi_tura_at">Jogue a moeda</string>
+    <string name="yazi">Cara ganhou..!</string>
+    <string name="tura">Coroa ganhou..!</string>
+    <string name="sec">Escolher</string>
+    <string name="hemen_oyna">Iniciar</string>
+    <string name="cikis">Sair</string>
+    <string name="uygulamadan_cik_emin">Tem certeza de que deseja sair do aplicativo?</string>
+    <string name="hayir">Não</string>
+    <string name="evet">Sim</string>
+    <string name="bekleyin">Por favor, aguarde...</string>
+    <string name="ayarlar">Configurações</string>
+    <string name="para_secme_basarili">Dinheiro selecionado com sucesso.</string>
+    <string name="titresim_error">Ocorreu um erro na caixa de seleção de vibração.</string>
+    <string name="hata">Ocorreu um erro..!</string>
+    <string name="para_tikla">Clique no dinheiro para confirmar a seleção.</string>
+    <string name="titresim">Vibração</string>
+</resources>

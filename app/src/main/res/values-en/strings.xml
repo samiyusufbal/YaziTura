@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Heads or Tails</string>
+    <string name="yazi_tura_at">Flip the coin</string>
+    <string name="yazi">Heads won..!</string>
+    <string name="tura">Tails won..!</string>
+    <string name="sec">Choose</string>
+    <string name="hemen_oyna">Start</string>
+    <string name="cikis">Exit</string>
+    <string name="uygulamadan_cik_emin">Are you sure you want to exit the application?</string>
+    <string name="hayir">No</string>
+    <string name="evet">Yes</string>
+    <string name="bekleyin">Please wait...</string>
+    <string name="ayarlar">Settings</string>
+    <string name="para_secme_basarili">Money selected successfully.</string>
+    <string name="titresim_error">An error occurred in the Vibration CheckBox.</string>
+    <string name="hata">An error occurred..!</string>
+    <string name="para_tikla">Click on the money to confirm the selection.</string>
+    <string name="titresim">Vibration</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">앞면 또는 뒷면</string>
+    <string name="yazi_tura_at">동전 던지기</string>
+    <string name="yazi">앞면이 이겼습니다..!</string>
+    <string name="tura">뒷면이 이겼습니다..!</string>
+    <string name="sec">선택</string>
+    <string name="hemen_oyna">시작</string>
+    <string name="cikis">종료</string>
+    <string name="uygulamadan_cik_emin">응용 프로그램을 종료하시겠습니까?</string>
+    <string name="hayir">아니오</string>
+    <string name="evet">예</string>
+    <string name="bekleyin">기다려주십시오...</string>
+    <string name="ayarlar">설정</string>
+    <string name="para_secme_basarili">금액이 성공적으로 선택되었습니다.</string>
+    <string name="titresim_error">진동 체크박스에서 오류가 발생했습니다.</string>
+    <string name="hata">오류가 발생했습니다..!</string>
+    <string name="para_tikla">선택을 확인하려면 돈을 클릭하세요.</string>
+    <string name="titresim">진동</string>
+</resources>

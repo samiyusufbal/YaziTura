@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pile ou face</string>
+    <string name="yazi_tura_at">Lancez la pièce de monnaie</string>
+    <string name="yazi">Pile a gagné..!</string>
+    <string name="tura">Face a gagné..!</string>
+    <string name="sec">Choisir</string>
+    <string name="hemen_oyna">Commencer</string>
+    <string name="cikis">Sortir</string>
+    <string name="uygulamadan_cik_emin">Êtes-vous sûr de vouloir quitter l\'application ?</string>
+    <string name="hayir">Non</string>
+    <string name="evet">Oui</string>
+    <string name="bekleyin">Veuillez patienter...</string>
+    <string name="ayarlar">Paramètres</string>
+    <string name="para_secme_basarili">Argent sélectionné avec succès.</string>
+    <string name="titresim_error">Une erreur s\'est produite dans la case à cocher de vibration.</string>
+    <string name="hata">Une erreur s\'est produite..!</string>
+    <string name="para_tikla">Cliquez sur l\'argent pour confirmer la sélection.</string>
+    <string name="titresim">Vibration</string>
+</resources>

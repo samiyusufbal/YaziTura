@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kopf oder Zahl</string>
+    <string name="yazi_tura_at">Münze werfen</string>
+    <string name="yazi">Kopf gewonnen..!</string>
+    <string name="tura">Zahl gewonnen..!</string>
+    <string name="sec">Wählen</string>
+    <string name="hemen_oyna">Start</string>
+    <string name="cikis">Beenden</string>
+    <string name="uygulamadan_cik_emin">Sind Sie sicher, dass Sie die Anwendung beenden möchten?</string>
+    <string name="hayir">Nein</string>
+    <string name="evet">Ja</string>
+    <string name="bekleyin">Bitte warten...</string>
+    <string name="ayarlar">Einstellungen</string>
+    <string name="para_secme_basarili">Geld erfolgreich ausgewählt.</string>
+    <string name="titresim_error">Ein Fehler ist im Vibrationskontrollkästchen aufgetreten.</string>
+    <string name="hata">Ein Fehler ist aufgetreten..!</string>
+    <string name="para_tikla">Klicken Sie auf das Geld, um die Auswahl zu bestätigen.</string>
+    <string name="titresim">Vibration</string>
+</resources>

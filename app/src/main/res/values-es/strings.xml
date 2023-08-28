@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara o cruz</string>
+    <string name="yazi_tura_at">Lanzar la moneda</string>
+    <string name="yazi">Cara ganó..!</string>
+    <string name="tura">Cruz ganó..!</string>
+    <string name="sec">Elegir</string>
+    <string name="hemen_oyna">Comenzar</string>
+    <string name="cikis">Salir</string>
+    <string name="uygulamadan_cik_emin">¿Estás seguro/a de que deseas salir de la aplicación?</string>
+    <string name="hayir">No</string>
+    <string name="evet">Sí</string>
+    <string name="bekleyin">Por favor, espere...</string>
+    <string name="ayarlar">Configuración</string>
+    <string name="para_secme_basarili">Dinero seleccionado con éxito.</string>
+    <string name="titresim_error">Se produjo un error en el CheckBox de vibración.</string>
+    <string name="hata">¡Se produjo un error..!</string>
+    <string name="para_tikla">Haga clic en el dinero para confirmar la selección.</string>
+    <string name="titresim">Vibración</string>
+</resources>

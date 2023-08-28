@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Testa o croce</string>
+    <string name="yazi_tura_at">Lancia la moneta</string>
+    <string name="yazi">Testa ha vinto..!</string>
+    <string name="tura">Croce ha vinto..!</string>
+    <string name="sec">Scegli</string>
+    <string name="hemen_oyna">Inizia</string>
+    <string name="cikis">Esci</string>
+    <string name="uygulamadan_cik_emin">Sei sicuro di voler uscire dall\'applicazione?</string>
+    <string name="hayir">No</string>
+    <string name="evet">Sì</string>
+    <string name="bekleyin">Attendere...</string>
+    <string name="ayarlar">Impostazioni</string>
+    <string name="para_secme_basarili">Denaro selezionato con successo.</string>
+    <string name="titresim_error">Si è verificato un errore nella casella di controllo delle vibrazioni.</string>
+    <string name="hata">Si è verificato un errore..!</string>
+    <string name="para_tikla">Clicca sul denaro per confermare la selezione.</string>
+    <string name="titresim">Vibrazione</string>
+</resources>

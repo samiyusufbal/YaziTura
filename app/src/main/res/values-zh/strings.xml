@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">正反面</string>
+    <string name="yazi_tura_at">投硬币</string>
+    <string name="yazi">正面赢了..！</string>
+    <string name="tura">反面赢了..！</string>
+    <string name="sec">选择</string>
+    <string name="hemen_oyna">开始</string>
+    <string name="cikis">退出</string>
+    <string name="uygulamadan_cik_emin">您确定要退出应用程序吗？</string>
+    <string name="hayir">否</string>
+    <string name="evet">是</string>
+    <string name="bekleyin">请稍候...</string>
+    <string name="ayarlar">设置</string>
+    <string name="para_secme_basarili">金额选择成功。</string>
+    <string name="titresim_error">震动复选框发生错误。</string>
+    <string name="hata">发生错误..!</string>
+    <string name="para_tikla">点击金钱以确认选择。</string>
+    <string name="titresim">震动</string>
+</resources>
