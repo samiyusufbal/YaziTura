@@ -28,10 +28,6 @@
         <activity
             android:name=".OyunActivity"
             android:exported="false" />
-        <activity
-            android:name=".ParaSecimActivity"
-            android:exported="false" />
-
     </application>
 
 </manifest>
